@@ -34,7 +34,7 @@
     <div class="card" role="main" aria-label="Pegadinha - video">
       <div class="thumbnail" id="thumb" tabindex="0" role="button" aria-pressed="false" aria-label="Abrir vídeo - Como bloquear pessoas no WhatsApp">
         <!-- Substitui esta imagem pela Thumbnail do "video" -->
-        <img class="thumb-img" src="https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?w=1600&q=80&auto=format&fit=crop" alt="Thumbnail: Como bloquear pessoas no WhatsApp">
+        <img class="thumb-img" src="https://e7.pngegg.com/pngimages/551/579/png-clipart-whats-app-logo-whatsapp-logo-whatsapp-cdr-leaf-thumbnail.png" alt="Thumbnail: Como bloquear pessoas no WhatsApp">
         <div class="play" aria-hidden="true">
           <div class="circle"><div class="triangle"></div></div>
         </div>
